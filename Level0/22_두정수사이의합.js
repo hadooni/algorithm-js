@@ -5,13 +5,13 @@ function solution(a, b) {
   if (a >= b) {
     for (let i = b; i <= a; i++) {
       // b에서 a까지 더하기
-      answer = answer += i;
+      answer += i;
     }
     //b가 a보다 클 경우
   } else if (a < b) {
     for (let i = a; i <= b; i++) {
       // a에서 b까지 더하기
-      answer = answer += i;
+      answer += i;
     }
   }
   return answer;
@@ -21,7 +21,7 @@ function solution(a, b) {
 function solution(a, b) {
   let answer = 0;
   for (let i = Math.min(a, b); i <= Math.max(a, b); i++) {
-    answer = answer + i;
+    answer += i;
   }
   return answer;
 }
