@@ -7,6 +7,7 @@
 |:---:|:---:|:---:|:---:|
 |24.09.02|Level0|[제곱수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120909)<br />[순서쌍의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120836)|[JS](https://github.com/hadooni/algorithm-js/blob/main/Level0/69_%EC%A0%9C%EA%B3%B1%EC%88%98%ED%8C%90%EB%B3%84%ED%95%98%EA%B8%B0.js)<br />[JS](https://github.com/hadooni/algorithm-js/blob/main/Level0/70_%EC%88%9C%EC%84%9C%EC%8C%8D%EC%9D%98%EA%B0%9C%EC%88%98.js)|
 |24.09.03|Level0|[피자 나눠 먹기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/120815)<br />[피자 나눠 먹기(3)](https://school.programmers.co.kr/learn/courses/30/lessons/120816)<br />[문자열 정렬하기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/120911)|[JS](<https://github.com/hadooni/algorithm-js/blob/main/Level0/71_%ED%94%BC%EC%9E%90%EB%82%98%EB%88%A0%EB%A8%B9%EA%B8%B0(2).js>)<br />[JS](<https://github.com/hadooni/algorithm-js/blob/main/Level0/72_%ED%94%BC%EC%9E%90%EB%82%98%EB%88%A0%EB%A8%B9%EA%B8%B0(3).js>)<br />[JS](<https://github.com/hadooni/algorithm-js/blob/main/Level0/73_%EB%AC%B8%EC%9E%90%EC%97%B4%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0(2).js>)|
+|24.09.04|Level0|[문자열 다루기 기본](https://school.programmers.co.kr/learn/courses/30/lessons/12918)|[JS](https://github.com/hadooni/algorithm-js/blob/main/Level0/74_%EB%AC%B8%EC%9E%90%EC%97%B4%EB%8B%A4%EB%A3%A8%EA%B8%B0%EA%B8%B0%EB%B3%B8.js)|
 
 **2024년 8월**
 |날짜|난이도|문제|JS풀이|
