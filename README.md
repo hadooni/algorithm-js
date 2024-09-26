@@ -17,6 +17,7 @@
 |24.09.19|Level1|[숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301)|[JS](https://github.com/hadooni/algorithm-js/blob/main/Level1/02_%EC%88%AB%EC%9E%90%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%EC%98%81%EB%8B%A8%EC%96%B4.js)|
 |24.09.20|Level0|[진료 순서 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/120835)|[JS](https://github.com/hadooni/algorithm-js/blob/main/Level0/87_%EC%A7%84%EB%A3%8C%EC%88%9C%EC%84%9C%EC%A0%95%ED%95%98%EA%B8%B0.js)|
 |24.09.25|Level0|[한 번만 등장한 문자](https://school.programmers.co.kr/learn/courses/30/lessons/120896)|[JS](https://github.com/hadooni/algorithm-js/blob/main/Level0/88_%ED%95%9C%EB%B2%88%EB%A7%8C%EB%93%B1%EC%9E%A5%ED%95%9C%EB%AC%B8%EC%9E%90.js)|
+|24.09.26|Level0|[컨트롤 제트](https://school.programmers.co.kr/learn/courses/30/lessons/120853)|[JS](https://github.com/hadooni/algorithm-js/blob/main/Level0/89_%EC%BB%A8%ED%8A%B8%EB%A1%A4%EC%A0%9C%ED%8A%B8.js)|
 
 **2024년 8월**
 |날짜|난이도|문제|JS풀이|
