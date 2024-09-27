@@ -18,6 +18,7 @@
 |24.09.20|Level0|[진료 순서 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/120835)|[JS](https://github.com/hadooni/algorithm-js/blob/main/Level0/87_%EC%A7%84%EB%A3%8C%EC%88%9C%EC%84%9C%EC%A0%95%ED%95%98%EA%B8%B0.js)|
 |24.09.25|Level0|[한 번만 등장한 문자](https://school.programmers.co.kr/learn/courses/30/lessons/120896)|[JS](https://github.com/hadooni/algorithm-js/blob/main/Level0/88_%ED%95%9C%EB%B2%88%EB%A7%8C%EB%93%B1%EC%9E%A5%ED%95%9C%EB%AC%B8%EC%9E%90.js)|
 |24.09.26|Level0|[컨트롤 제트](https://school.programmers.co.kr/learn/courses/30/lessons/120853)|[JS](https://github.com/hadooni/algorithm-js/blob/main/Level0/89_%EC%BB%A8%ED%8A%B8%EB%A1%A4%EC%A0%9C%ED%8A%B8.js)|
+|24.09.27|Level0|[A로 B 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120886)<br />[문자열 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/120902)|[JS](https://github.com/hadooni/algorithm-js/blob/main/Level0/90_A%EB%A1%9CB%EB%A7%8C%EB%93%A4%EA%B8%B0.js)<br />[JS](https://github.com/hadooni/algorithm-js/blob/main/Level0/91_%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0.js)|
 
 **2024년 8월**
 |날짜|난이도|문제|JS풀이|
