@@ -6,6 +6,7 @@
 |날짜|난이도|문제|JS풀이|
 |:---:|:---:|:---:|:---:|
 |24.10.01|Level0|[가까운 수](https://school.programmers.co.kr/learn/courses/30/lessons/120890)|[JS](https://github.com/hadooni/algorithm-js/blob/main/Level0/92_%EA%B0%80%EA%B9%8C%EC%9A%B4%EC%88%98.js)|
+|24.10.04|Level0|[치킨 쿠폰](https://school.programmers.co.kr/learn/courses/30/lessons/120884)<br />[로그인 성공?](https://school.programmers.co.kr/learn/courses/30/lessons/120883)|[JS](https://github.com/hadooni/algorithm-js/blob/main/Level0/93_%EC%B9%98%ED%82%A8%EC%BF%A0%ED%8F%B0.js)<br />[JS](https://github.com/hadooni/algorithm-js/blob/main/Level0/94_%EB%A1%9C%EA%B7%B8%EC%9D%B8%EC%84%B1%EA%B3%B5%3F.js)|
 
 **2024년 9월**
 |날짜|난이도|문제|JS풀이|
