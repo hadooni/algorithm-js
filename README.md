@@ -10,6 +10,7 @@
 |24.10.07|Level0|[영어가 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120894)<br />[잘라서 배열로 저장하기](https://school.programmers.co.kr/learn/courses/30/lessons/120913)|[JS](https://github.com/hadooni/algorithm-js/blob/main/Level0/95_%EC%98%81%EC%96%B4%EA%B0%80%EC%8B%AB%EC%96%B4%EC%9A%94.js)<br />[JS](https://github.com/hadooni/algorithm-js/blob/main/Level0/96_%EC%9E%98%EB%9D%BC%EC%84%9C%EB%B0%B0%EC%97%B4%EB%A1%9C%EC%A0%80%EC%9E%A5%ED%95%98%EA%B8%B0.js)|
 |24.10.08.|Level0|[팩토리얼](https://school.programmers.co.kr/learn/courses/30/lessons/120848)<br />[문자열 밀기](https://school.programmers.co.kr/learn/courses/30/lessons/120921)|[JS](https://github.com/hadooni/algorithm-js/blob/main/Level0/97_%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC.js)<br />[JS](https://github.com/hadooni/algorithm-js/blob/main/Level0/98_%EB%AC%B8%EC%9E%90%EC%97%B4%EB%B0%80%EA%B8%B0.js)|
 |24.10.10.|Level0|[연속된 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120923)|[JS](https://github.com/hadooni/algorithm-js/blob/main/Level0/99_%EC%97%B0%EC%86%8D%EB%90%9C%EC%88%98%EC%9D%98%ED%95%A9.js)|
+|24.10.11.|Level1|[행렬의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/12950)<br />[삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705)|[JS](https://github.com/hadooni/algorithm-js/blob/main/Level1/03_%ED%96%89%EB%A0%AC%EC%9D%98%EB%8D%A7%EC%85%88.js)<br />[JS](https://github.com/hadooni/algorithm-js/blob/main/Level1/04_%EC%82%BC%EC%B4%9D%EC%82%AC.js)|
 
 **2024년 9월**
 |날짜|난이도|문제|JS풀이|
