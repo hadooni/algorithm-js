@@ -2,6 +2,13 @@
 
 ### 문제풀이 진행현황
 
+**2024년 12월**
+|날짜|난이도|문제|JS풀이|
+|:---:|:---:|:---:|:---:|
+|24.12.18|Level1|[두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644)|[JS](https://github.com/hadooni/algorithm-js/blob/main/Level1/05_%EB%91%90%EA%B0%9C%EB%BD%91%EC%95%84%EC%84%9C%EB%8D%94%ED%95%98%EA%B8%B0.js)|
+
+<br />
+
 **2024년 10월**
 |날짜|난이도|문제|JS풀이|
 |:---:|:---:|:---:|:---:|
@@ -11,6 +18,8 @@
 |24.10.08.|Level0|[팩토리얼](https://school.programmers.co.kr/learn/courses/30/lessons/120848)<br />[문자열 밀기](https://school.programmers.co.kr/learn/courses/30/lessons/120921)|[JS](https://github.com/hadooni/algorithm-js/blob/main/Level0/97_%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC.js)<br />[JS](https://github.com/hadooni/algorithm-js/blob/main/Level0/98_%EB%AC%B8%EC%9E%90%EC%97%B4%EB%B0%80%EA%B8%B0.js)|
 |24.10.10.|Level0|[연속된 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120923)|[JS](https://github.com/hadooni/algorithm-js/blob/main/Level0/99_%EC%97%B0%EC%86%8D%EB%90%9C%EC%88%98%EC%9D%98%ED%95%A9.js)|
 |24.10.11.|Level1|[행렬의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/12950)<br />[삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705)|[JS](https://github.com/hadooni/algorithm-js/blob/main/Level1/03_%ED%96%89%EB%A0%AC%EC%9D%98%EB%8D%A7%EC%85%88.js)<br />[JS](https://github.com/hadooni/algorithm-js/blob/main/Level1/04_%EC%82%BC%EC%B4%9D%EC%82%AC.js)|
+
+<br />
 
 **2024년 9월**
 |날짜|난이도|문제|JS풀이|
@@ -29,6 +38,8 @@
 |24.09.25|Level0|[한 번만 등장한 문자](https://school.programmers.co.kr/learn/courses/30/lessons/120896)|[JS](https://github.com/hadooni/algorithm-js/blob/main/Level0/88_%ED%95%9C%EB%B2%88%EB%A7%8C%EB%93%B1%EC%9E%A5%ED%95%9C%EB%AC%B8%EC%9E%90.js)|
 |24.09.26|Level0|[컨트롤 제트](https://school.programmers.co.kr/learn/courses/30/lessons/120853)|[JS](https://github.com/hadooni/algorithm-js/blob/main/Level0/89_%EC%BB%A8%ED%8A%B8%EB%A1%A4%EC%A0%9C%ED%8A%B8.js)|
 |24.09.27|Level0|[A로 B 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120886)<br />[문자열 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/120902)|[JS](https://github.com/hadooni/algorithm-js/blob/main/Level0/90_A%EB%A1%9CB%EB%A7%8C%EB%93%A4%EA%B8%B0.js)<br />[JS](https://github.com/hadooni/algorithm-js/blob/main/Level0/91_%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0.js)|
+
+<br />
 
 **2024년 8월**
 |날짜|난이도|문제|JS풀이|
