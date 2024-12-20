@@ -6,6 +6,7 @@
 |날짜|난이도|문제|JS풀이|
 |:---:|:---:|:---:|:---:|
 |24.12.18|Level1|[두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644)|[JS](https://github.com/hadooni/algorithm-js/blob/main/Level1/05_%EB%91%90%EA%B0%9C%EB%BD%91%EC%95%84%EC%84%9C%EB%8D%94%ED%95%98%EA%B8%B0.js)|
+|24.12.20|Level1|[모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)|[JS](https://github.com/hadooni/algorithm-js/blob/main/Level1/06_%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.js)|
 
 <br />
 
