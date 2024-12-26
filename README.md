@@ -8,6 +8,7 @@
 |24.12.18|Level1|[두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644)|[JS](https://github.com/hadooni/algorithm-js/blob/main/Level1/05_%EB%91%90%EA%B0%9C%EB%BD%91%EC%95%84%EC%84%9C%EB%8D%94%ED%95%98%EA%B8%B0.js)|
 |24.12.20|Level1|[모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)|[JS](https://github.com/hadooni/algorithm-js/blob/main/Level1/06_%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.js)|
 |24.12.22|Level1 <br /> Level2|[실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)<br />[행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949)|[JS](https://github.com/hadooni/algorithm-js/blob/main/Level1/07_%EC%8B%A4%ED%8C%A8%EC%9C%A8.js)<br />[JS](https://github.com/hadooni/algorithm-js/blob/main/Level2/01_%ED%96%89%EB%A0%AC%EC%9D%98%EA%B3%B1%EC%85%88.js)|
+|24.12.26|Level2|[방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994)|[JS](https://github.com/hadooni/algorithm-js/blob/main/Level2/02_%EB%B0%A9%EB%AC%B8%EA%B8%B8%EC%9D%B4.js)|
 
 <br />
 
