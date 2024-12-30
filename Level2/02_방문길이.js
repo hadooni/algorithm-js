@@ -23,6 +23,8 @@ function moveCharacter(x, y, dir) {
       return [x + 1, y];
     case "L":
       return [x - 1, y];
+    default:
+      break;
   }
 }
 
