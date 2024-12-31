@@ -10,6 +10,7 @@
 |24.12.22|Level1 <br /> Level2|[실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)<br />[행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949)|[JS](https://github.com/hadooni/algorithm-js/blob/main/Level1/07_%EC%8B%A4%ED%8C%A8%EC%9C%A8.js)<br />[JS](https://github.com/hadooni/algorithm-js/blob/main/Level2/01_%ED%96%89%EB%A0%AC%EC%9D%98%EA%B3%B1%EC%85%88.js)|
 |24.12.26|Level2|[방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994)|[JS](https://github.com/hadooni/algorithm-js/blob/main/Level2/02_%EB%B0%A9%EB%AC%B8%EA%B8%B8%EC%9D%B4.js)|
 |24.12.30|Level2|[괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)|[JS](https://github.com/hadooni/algorithm-js/blob/main/Level2/03_%EA%B4%84%ED%98%B8%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0.js)|
+|24.12.31|Level2|[짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)|[JS](https://github.com/hadooni/algorithm-js/blob/main/Level2/04_%EC%A7%9D%EC%A7%80%EC%96%B4%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.js)|
 
 <br />
 
