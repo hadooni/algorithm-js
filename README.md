@@ -2,6 +2,13 @@
 
 ### 문제풀이 진행현황
 
+**2025년 1월**
+|날짜|난이도|문제|JS풀이|
+|:---:|:---:|:---:|:---:|
+|25.01.01|Level2|[주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)|[JS](https://github.com/hadooni/algorithm-js/blob/main/Level2/05_%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9.js)|
+
+<br />
+
 **2024년 12월**
 |날짜|난이도|문제|JS풀이|
 |:---:|:---:|:---:|:---:|
