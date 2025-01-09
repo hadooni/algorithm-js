@@ -6,6 +6,7 @@
 |날짜|난이도|문제|JS풀이|
 |:---:|:---:|:---:|:---:|
 |25.01.01|Level2|[주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)|[JS](https://github.com/hadooni/algorithm-js/blob/main/Level2/05_%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9.js)|
+|25.01.09|Level1|[크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061)|[JS](https://github.com/hadooni/algorithm-js/blob/main/Level1/08_%ED%81%AC%EB%A0%88%EC%9D%B8%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%EA%B2%8C%EC%9E%84.js)|
 
 <br />
 
